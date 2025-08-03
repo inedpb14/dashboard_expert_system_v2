@@ -1,6 +1,6 @@
-# Run and deploy your AI Studio app
+# Dashboard sistem pakar versi 0.2
 
-This contains everything you need to run your app locally.
+ini adalah dashboard yang di buat untuk memenejemen resources sistem pakar
 
 ## Run Locally
 
@@ -9,6 +9,6 @@ This contains everything you need to run your app locally.
 
 1. Install dependencies:
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+2. Set the  [.env.local](.env.local)
 3. Run the app:
    `npm run dev`
